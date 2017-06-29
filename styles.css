@@ -1,7 +1,16 @@
 img  {
-    width:  200px
+    width:  300px
 }
 body {
     text-align: center;
-    font-family: "Arial"
+    font-family: cursive;
+    
+}
+h1 {
+    color: pink
+}
+
+li {
+    background-color: yellow;
+    <font color=######>excited to learn HTML</font>
 }
