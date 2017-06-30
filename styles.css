@@ -4,13 +4,10 @@ img  {
 body {
     text-align: center;
     font-family: cursive;
+    background-color:lavender;
     
 }
 h1 {
-    color: pink
+    color: black;
 }
 
-li {
-    background-color: yellow;
-    <font color=######>excited to learn HTML</font>
-}
